@@ -1,4 +1,19 @@
 * {
+<<<<<<< HEAD
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+background-color: rgba(70, 69, 69, 0.391);
+}
+
+.container{
+    background-color: white;
+    border-radius: 20px;
+
+=======
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
@@ -11,4 +26,5 @@ body {
 .container {
 	background-color: white;
 	border-radius: 20px;
+>>>>>>> 1226e819c456723c9814a4fae0a70eb6ffcc7d04
 }
